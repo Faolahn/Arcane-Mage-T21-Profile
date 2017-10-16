@@ -11,7 +11,7 @@ spec=arcane
 head=runebound_collar,id=152138,ilevel=960
 neck=vulcanarcore_pendant,id=151965,ilevel=960,enchant=mark_of_the_hidden_satyr
 shoulders=runebound_mantle,id=152141,ilevel=960
-back=runebound_cape,id=152136,ilevel=960
+back=runebound_cape,id=152136,ilevel=960,enchant=binding_of_intellect
 chest=runebound_tunic,id=152140,ilevel=960
 wrists=blooddrenched_bindings,id=151954,ilevel=960
 hands=runebound_gloves,id=152137,ilevel=960
